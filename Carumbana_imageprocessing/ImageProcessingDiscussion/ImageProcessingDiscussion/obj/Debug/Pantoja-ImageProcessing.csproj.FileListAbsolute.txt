@@ -1,0 +1,28 @@
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe.config
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.pdb
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.Form1.resources
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.Properties.Resources.resources
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.exe
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.pdb
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe.manifest
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.application
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.exe.manifest
+C:\Users\Asus\source\repos\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.application
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe.config
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe.manifest
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.application
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.exe
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\bin\Debug\ImageProcessingDiscussion.pdb
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.Form1.resources
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.Properties.Resources.resources
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\Pantoja-ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.exe.manifest
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.application
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.exe
+C:\Users\admin\Downloads\Pantoja-ImageProcessingWithPar 3\ImageProcessingDiscussion\ImageProcessingDiscussion\obj\Debug\ImageProcessingDiscussion.pdb
