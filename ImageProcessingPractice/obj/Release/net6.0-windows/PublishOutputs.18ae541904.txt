@@ -1,0 +1,8 @@
+D:\Visual Studio\ImageProcessingPractice.exe
+D:\Visual Studio\ImageProcessingPractice.dll
+D:\Visual Studio\ImageProcessingPractice.deps.json
+D:\Visual Studio\ImageProcessingPractice.runtimeconfig.json
+D:\Visual Studio\ImageProcessingPractice.pdb
+D:\Visual Studio\AForge.dll
+D:\Visual Studio\AForge.Video.dll
+D:\Visual Studio\AForge.Video.DirectShow.dll
